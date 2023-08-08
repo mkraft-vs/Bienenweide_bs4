@@ -1,0 +1,19 @@
+--- 
+title: "Bienenweide"
+author: "Manfred Kraft et al."
+date: "`r Sys.Date()`"
+output: pdf_document
+documentclass: book
+bibliography:
+- book.bib
+- packages.bib
+description: |
+  Bienenweide-Lehrgang - Arbeitskopie -
+biblio-style: apalike
+csl: "chicago-fullnote-bibliography.csl"
+site: bookdown::bookdown_site
+---
+
+# About
+
+Bemerkungen zur Rolle des Obmann's für Bienenweide
