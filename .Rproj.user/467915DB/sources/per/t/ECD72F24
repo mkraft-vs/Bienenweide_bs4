@@ -1,14 +1,14 @@
 {
-    "id": "4EF0D2A5",
-    "path": "C:/Users/mk/Desktop/R/Bookdown/Bienenweide_bs4/README.md",
-    "project_path": "README.md",
-    "type": "markdown",
-    "hash": "0",
+    "id": "ECD72F24",
+    "path": "C:/Users/mk/Desktop/R/Bookdown/Bienenweide_bs4/_bookdown.yml",
+    "project_path": "_bookdown.yml",
+    "type": "yaml",
+    "hash": "1518809905",
     "contents": "",
     "dirty": false,
-    "created": 1691487685770.0,
+    "created": 1691487687654.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 3,
     "properties": {
         "source_window_id": "",
         "Source": "Source"

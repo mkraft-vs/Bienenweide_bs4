@@ -17,3 +17,4 @@ site: bookdown::bookdown_site
 # About
 
 Bemerkungen zur Rolle des Obmann's für Bienenweide
+und die Verantwortung für die Verbesserung der Biodiversität
