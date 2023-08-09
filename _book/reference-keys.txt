@@ -81,6 +81,4 @@ imker-und-biodiverstät
 kontrolleure-bei-gift-in-der-landwirtschaft-u.-ä.
 verbesserung-des-blüh-angebots-für-alle-bestäuber
 flächenwirsamkeit-mitgliedersind-in-der-fläche-aktiv
-footnotes-and-citations
-footnotes
-citations
+bemerungen-und-kommentare
