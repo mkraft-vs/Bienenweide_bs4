@@ -1,7 +1,7 @@
 --- 
 title: "Bienenweide"
 author: "Manfred Kraft et al."
-date: "2023-08-08"
+date: "2023-08-09"
 output: pdf_document
 documentclass: book
 bibliography:

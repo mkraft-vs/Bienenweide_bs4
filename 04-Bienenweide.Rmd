@@ -1,41 +1,8 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
-# Bienenweide
+# Weitere Unterstützung der Wildbienen
 
-## Trachtfließband
+## Sandarium
 
-## Blühwiesen
-
-## Trachten
-### Heuwiesen
-### Obstbäume
-### Säume
-### Sträucher
-### Bäume
-#### Nadelbäume
-#### Laubbäume
-		
-## Saatgut
-### Rechtsvorschriften, $40 UmSchG
-### Regionales Saatgut
-#### Blühflächen
-#### Säume
-### Wiesendrusch
-
-## Anlage und Pflege der Blühwiesen
-### Saatgut-Auswahl
-### Fläche vorbereiten
-### Einsaat
-### Pflege
-
-## Weitere Unterstützung der Wildbienen
-
-### Sandarium
-
-### Nisthabitate
+## Nisthabitate
 
 #### Bodenbrüter
 #### Stängelbrüter
